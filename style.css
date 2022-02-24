@@ -1,0 +1,59 @@
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-size: 60px;
+}
+h3 {
+    text-align: center;
+    font-size: 30px;
+    color:white;
+}
+p {
+    font-family: 'Times New Roman', Times, serif;
+}
+img {
+    width:300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 10px solid rgb(146, 112, 138);
+}
+table {
+    margin-left:auto;
+    margin-right: auto;
+}
+div {
+    text-align: center;
+}
+hr {
+   border-top: 2px dashed black; 
+}
+.even {
+    font-family: 'Courier New', Courier, monospace;
+    background-color:lightcoral;
+    color:white;
+}
+.odd {
+    font-family: 'Courier New', Courier, monospace;
+    background-color:rgb(146, 112, 138);
+    color:white;
+}
+.blue {
+    background-color:rgb(150, 162, 226);
+    font-family:'Courier New', Courier, monospace
+}
+.yellow{
+    background-color:rgb(243, 228, 89);
+    font-family:Arial, Helvetica, sans-serif;
+}
+.green{
+    background-color: rgb(122, 238, 122);
+    font-family: 'Courier New', Courier, monospace;
+}
+body {
+    background-color: rgb(224, 207, 182);
+}
+.orange {
+    background-color:rgb(240, 184, 82);
+    font-family:Arial, Helvetica, sans-serif;
+}
