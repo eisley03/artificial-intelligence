@@ -22,7 +22,10 @@ table {
     margin-left:auto;
     margin-right: auto;
 }
-div {
+th {
+    text-align: center;
+}
+td{
     text-align: center;
 }
 hr {
