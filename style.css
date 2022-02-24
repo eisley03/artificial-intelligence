@@ -32,11 +32,13 @@ hr {
     font-family: 'Courier New', Courier, monospace;
     background-color:lightcoral;
     color:white;
+    font-size: large;
 }
 .odd {
     font-family: 'Courier New', Courier, monospace;
     background-color:rgb(146, 112, 138);
     color:white;
+    font-size: large;
 }
 .blue {
     background-color:rgb(150, 162, 226);
