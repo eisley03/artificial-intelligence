@@ -11,6 +11,9 @@ h3 {
 p {
     font-family: 'Times New Roman', Times, serif;
 }
+div {
+    font-family: 'Times New Roman', Times, serif;
+}
 img {
     width:300px;
     display: block;
@@ -70,6 +73,7 @@ body {
     background-color:rgb(236, 170, 104);
     color:black;
     text-align: center;
+    font-family: 'Times New Roman', Times, serif;
 }
   
 
