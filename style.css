@@ -63,8 +63,13 @@ body {
     font-family:Arial, Helvetica, sans-serif;
 }
 .footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
     width: 100%;
+    background-color:rgb(236, 170, 104);
+    color:black;
     text-align: center;
-    background-color: rgb(238, 172, 97);
-}
+  }
+  
 
